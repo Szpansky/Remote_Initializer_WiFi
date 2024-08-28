@@ -27,7 +27,7 @@ After prototype I started to creating my own box. I used 3D blender to create my
 
 
 ### Improved Electronic, with more outputs and higher Current output.
-After working set, I also started to improve my main board, to have more oututs, and to have more stable outputs.
+After working set, I also started to improve my main board, to have more outputs, and to have more stable outputs.
 
 <img src="https://github.com/user-attachments/assets/2143f9bc-da55-4147-846e-d13854b40b25" width=50% height=50%>
 
