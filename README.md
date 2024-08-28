@@ -4,7 +4,7 @@
 WiFi Initializer
 My latest project fully invented by me. I fully created 3D design of the case, and also the main high current control board for that project.
 
-Description in porgress...
+Description in progress...
 
 
 
