@@ -47,6 +47,6 @@ During test with fireworks, I used redy to connect, firework igniters.
 
 ## What's next
 
-That project use modyfied tasmota software when comes to the esp32 module. Thatks to that it can be easly usied in your HomeAssistant envirment or any other project f.e with MQTT. 
+That project use modified tasmota software when comes to the esp32 module. Thanks to that it can be easily used in your HomeAssistant environment or any other project f.e with MQTT.
 My solution here was to automate my fireworks presentation. To focus only on watching with my family :)
 Soon on sale in the store ;)
