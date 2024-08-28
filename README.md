@@ -42,8 +42,7 @@ In that example I used high resistant wire, to ignite standart match.
 
 During test with fireworks, I used redy to connect, firework igniters.
 
-<img src="https://github.com/user-attachments/assets/31a0b2f4-9756-4f1a-9a4b-64d8829c41f8" width=50% height=50%>
-
+<img src="https://github.com/user-attachments/assets/d562d0dc-f355-4414-b835-c35013ea749b" width=50% height=50%>
 
 ## What's next
 
