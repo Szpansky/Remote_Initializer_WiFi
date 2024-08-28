@@ -1,4 +1,4 @@
-# Remote_Initializer_WiFi
+# Remote Initializer WiFi
 
 
 WiFi Initializer
